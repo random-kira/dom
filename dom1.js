@@ -1,4 +1,4 @@
-window.dom1 = {
+window.dom = {
   find(selector) {
     return document.querySelectorAll(selector)
   },
